@@ -6,6 +6,7 @@ The project about recognizing fish species. ANN models used.
 
 Proje için rehber kaynaklar:
 https://www.kaggle.com/code/zeynepguney/mnist-ann
+https://www.youtube.com/watch?v=W4WwmpMfDow&t=2341s
   
 📝 Proje Teslim Formu: [https://lnkd.in/d7tYrayR](https://lnkd.in/d7tYrayR)  
   
